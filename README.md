@@ -2,9 +2,9 @@
 
 I am an application developer and I do recreational programming. I specialize in machine learning and signal processing.
 
-The first programming I learned was C. Although professionally I work with several other languages and frameworks, I continue to use C for all my hobby projects.
+The first programming language I learned was C. Although professionally I work with several other languages and frameworks, I continue to use C for all my hobby projects.
 
-My physics professor introduced me to Emacs in 2014. After 10 years, I am still trying to get rid of it, but I just can't; Emacs is awesome.
+My physics professor introduced me to Emacs in 2014. After 10 years, I am still trying to get rid of it, but I just can't --- Emacs is awesome.
 
 <!--
 **s4m13337/s4m13337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
